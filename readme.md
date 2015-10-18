@@ -1,6 +1,6 @@
 # tomorrow [![Build Status](https://travis-ci.org/cullylarson/tomorrow.svg?branch=master)](https://travis-ci.org/cullylarson/tomorrow)
 
-> Gets tommorrow's date.
+> Gets tomorrow's date.
 
 
 ## Install
