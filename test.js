@@ -13,8 +13,6 @@ describe("Tomorow", function() {
         // the two dates were generates ms apart
         var diff = tomorrowDate.getTime() - today.getTime()
 
-        console.log(diff)
-
         assert( diff < twodays, "Tomorrow is at least the next day." )
         assert( diff >= oneday, "Tomorrow could still be today!" )
     })
