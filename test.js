@@ -1,10 +1,10 @@
 var assert = require('assert')
-var tomorrow = require("./")
+var tomorow = require("./")
 
-describe("Tomorrow", function() {
+describe("Tomorow", function() {
     it("Should return tomorrow's date", function () {
         var today = new Date()
-        var tomorrowDate = tomorrow()
+        var tomorrowDate = tomorow()
 
         var oneday = 86400000 // milli-seconds
         var twodays = oneday * 2

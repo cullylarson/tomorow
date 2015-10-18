@@ -1,9 +1,9 @@
 {
-  "name": "tomorrow",
+  "name": "tomorow",
   "version": "1.0.0",
-  "description": "Gets tomorrow's date.",
+  "description": "Gets tomorrow's date. The package name only has one 'r' to prevent a conflict with another package.",
   "license": "MIT",
-  "repository": "cullylarson/tomorrow",
+  "repository": "cullylarson/tomorow",
   "author": {
     "name": "Cully Larson",
     "email": "cully.larson@gmail.com"
@@ -20,6 +20,7 @@
   "keywords": [
     "date",
     "tomorrow",
+    "tomorow",
     "day"
   ],
   "devDependencies": {
